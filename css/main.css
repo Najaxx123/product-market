@@ -1,0 +1,53 @@
+
+* {
+    box-sizing: border-box;
+}
+
+img {
+    width: 100%;
+}
+
+body {
+    background-color: #F2EAE2;
+}
+
+main {
+    background-color: #ffffff;
+    width: 600px;
+    display: flex;
+}
+
+.perfume-picture {
+    width: 50%;
+}
+
+.perfume-content {
+    width: 50%;
+}
+
+.perfume {
+ font-family: "Montserrat", sans-serif;
+}
+
+.titre {
+    font-family: "Fraunces", serif;
+}
+
+.add-to-cart img {
+    width: 14.39px;
+    height: 16px;
+    top: 1px;
+}
+
+
+.prix {
+    font-family: "Fraunces", serif;
+}
+
+.ancien-prix {
+    font-weight: 500px;
+    font-size: 13px;
+    line-height: 23px;
+    text-decoration: line-through;
+    font-family: "Montserrat", sans-serif;
+}
